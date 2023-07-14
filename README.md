@@ -10,10 +10,6 @@ Collection of DEV Tools, Plugins and Shortcuts
 
     rename paired HTML Tags
 
-[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
-
-    This extension allows matching brackets to be identified with colours. The user can define which tokens to match, and which colours to use.
-
 [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
     Supported Properties
