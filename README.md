@@ -44,6 +44,10 @@ Collection of DEV Tools, Plugins and Shortcuts
 
     Adds emoji syntax support to VS Code's built-in markdown preview
 
+[Marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
+    Will enhance your VS Code as the slide deck writer.
+
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
     Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
