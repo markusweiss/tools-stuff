@@ -19,6 +19,12 @@ Collection of DEV Tools, Plugins and Shortcuts
     * end_of_line (on save)
     * insert_final_newline (on save)
     * trim_trailing_whitespace (on save)
+    
+
+[Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+
+    Make TypeScript errors prettier and human-readable in VSCode.
+
 
 [VS Code ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
