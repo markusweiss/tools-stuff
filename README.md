@@ -93,6 +93,15 @@ Collection of DEV Tools, Plugins and Shortcuts
     Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes and Kedge syntax support.
 
 
-### Shortcuts
+## Shortcuts
 
-tbd.
+### Zeile kopieren nach oben oder unten
+
+    OPT+SHIFT+UP 
+    OPT+SHIFT+DOWN
+
+### Code Block auskommentieren
+
+Code markieren
+
+    SHIFT+OPT+A
