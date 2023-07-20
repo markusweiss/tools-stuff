@@ -97,11 +97,15 @@ Collection of DEV Tools, Plugins and Shortcuts
 
 ### Zeile kopieren nach oben oder unten
 
-    OPT+SHIFT+UP 
-    OPT+SHIFT+DOWN
+    OPT + SHIFT + UP 
+    OPT + SHIFT + DOWN
 
 ### Code Block auskommentieren
 
 Code markieren
 
-    SHIFT+OPT+A
+    SHIFT + OPT + A
+
+### In allen Dateien suchen
+
+    CMD + SHIFT + F
