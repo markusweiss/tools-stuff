@@ -5,6 +5,13 @@ Collection of DEV Tools, Plugins and Shortcuts
 ## Visual Studio Code
 
 ### Plugins
+[CSS Alphabetize](https://marketplace.visualstudio.com/items?itemName=PolymerMallard.css-alphabetize)
+
+    Alphabetic order of your css/scss properties
+
+    SHIF + ALT + A
+
+
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
