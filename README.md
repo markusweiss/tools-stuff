@@ -1,16 +1,32 @@
 # tools-stuff
 
-Collection of DEV Tools, Plugins and Shortcuts
+Collection of DEV Tools, Plugins and Shortcuts (MAC)
 
 ## Visual Studio Code
 
 ### Plugins
+
+[AsciiDoc
+asciidoctor](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode)
+
+    A good tool for technical documentation, with a lot of export features.
+
+    An extension that provides live preview, syntax highlighting and snippets for the AsciiDoc format using Asciidoctor.
+    
+    CTRL + SHIFT + P
+
+    Search for asciidoc and you can use the features.
+
+[Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+    Nice for Mockup or Sitemap creation
+
+
 [CSS Alphabetize](https://marketplace.visualstudio.com/items?itemName=PolymerMallard.css-alphabetize)
 
     Alphabetic order of your css/scss properties
 
     SHIF + ALT + A
-
 
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
