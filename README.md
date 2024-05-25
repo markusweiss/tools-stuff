@@ -21,13 +21,13 @@ asciidoctor](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asc
 
     Nice for Mockup or Sitemap creation
 
-
+<!--
 [CSS Alphabetize](https://marketplace.visualstudio.com/items?itemName=PolymerMallard.css-alphabetize)
 
     Alphabetic order of your css/scss properties
 
     SHIF + ALT + A
-
+-->
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
